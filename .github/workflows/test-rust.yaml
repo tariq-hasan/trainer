@@ -1,6 +1,7 @@
 name: Unit and Integration Test - Rust
 
 on:
+  - push
   - pull_request
 
 jobs:
